@@ -1,10 +1,5 @@
 # Network Port Scanner
 
-Cyber Security Self-Learning Internship  
-Organization: InternCareerPath  
-Portal ID: ICP-OPN8SS-2026  
-Repo ID: REPO-J8HO  
-
 ## Description
 This project is a Python-based network port scanner developed
 to identify open TCP ports and running services on a target system.
